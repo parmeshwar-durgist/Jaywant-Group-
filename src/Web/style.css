@@ -1,0 +1,13 @@
+
+/* style={{paddingTop:'60px',paddingBottom:'100px'}} */
+
+.toggle-btn{
+    display: none !important;
+}
+
+@media(max-width:700px)
+{
+    .toggle-btn{
+        display: inline-block !important;
+    }
+}
